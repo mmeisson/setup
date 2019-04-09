@@ -1,0 +1,18 @@
+
+#	Vim aliases
+alias ls="ls -G"
+alias l="ls"
+alias sl="ls"
+alias ll="ls -l"
+alias la="ls -a"
+alias lla="ls -la"
+
+#	Git aliases
+alias gs="git status"
+alias gl="git log"
+alias gp="git push"
+alias gb="git branch"
+
+
+#	:trolldance:
+alias emacs="vim"
